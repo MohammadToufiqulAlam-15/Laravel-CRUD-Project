@@ -1,16 +1,16 @@
-<h1>Laravel CRUD Project Description </h1>h1>
+<h1>Laravel CRUD Project Description </h1>
 <h2>Project Overview</h2>
 <p></p>This is a CRUD (Create, Read, Update, Delete) application built with Laravel. The project focuses on managing products, allowing users to perform basic operations such as adding, editing, viewing, and deleting records.</p>
-<img>![CRUD-2](https://github.com/user-attachments/assets/df61ab1c-e6a1-4bfa-82c6-41080408e485)</img>
-<img>![CRUD-1](https://github.com/user-attachments/assets/7fe96f50-646f-439b-9953-7d8d7275b64c)</img>
+![CRUD-2](https://github.com/user-attachments/assets/df61ab1c-e6a1-4bfa-82c6-41080408e485)
+![CRUD-1](https://github.com/user-attachments/assets/7fe96f50-646f-439b-9953-7d8d7275b64c)
 
 <h2>Key Features</h2>
-<p></p>1.Product Management: Users can create, read, update, and delete products.</p>
-<p></p>2.User Authentication: Laravel's default authentication system is included.</p>
-3.Database Migrations: Ensures structured database creation and version control.
-4.MVC Architecture: Uses Laravel’s Models, Views, and Controllers for clean code organization.
-5.Blade Templating Engine: Views are structured using Laravel’s Blade templates for dynamic content rendering.
-6.Routing: Web routes are defined in web.php for handling requests.
+<p>1.Product Management: Users can create, read, update, and delete products.</p>
+<p>2.User Authentication: Laravel's default authentication system is included.</p>
+<p>3.Database Migrations: Ensures structured database creation and version control.</p>
+<p>4.MVC Architecture: Uses Laravel’s Models, Views, and Controllers for clean code organization.</p>
+<p>5.Blade Templating Engine: Views are structured using Laravel’s Blade templates for dynamic content rendering.</p>
+<p>6.Routing: Web routes are defined in web.php for handling requests.</p>
 
 Technical Details
 Models:
