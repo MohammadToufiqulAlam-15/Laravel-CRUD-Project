@@ -1,6 +1,8 @@
 <h1>Laravel CRUD Project Description </h1>
 <h2>Project Overview</h2>
 <p></p>This is a CRUD (Create, Read, Update, Delete) application built with Laravel. The project focuses on managing products, allowing users to perform basic operations such as adding, editing, viewing, and deleting records.</p>
+![CRUD-2](https://github.com/user-attachments/assets/0bb91cd7-8280-4b45-9010-50b6f4021a17)
+![CRUD-1](https://github.com/user-attachments/assets/e3e43480-18f8-4b13-b918-ed36b1e61941)
 
 <h2>Key Features</h2>
 <p>1.Product Management: Users can create, read, update, and delete products.</p>
@@ -32,7 +34,7 @@
 <p>2.create_users_table.php - Manages user authentication.</p>
 
 <h2>Setup Instructions:</h2>
-<p>1.Clone the Project</p>
+<h2>1.Clone the Project</h2>
   <p>git clone <repository_url></p>
   <p> cd crud-application</p>
   
