@@ -1,5 +1,5 @@
 <h1>Laravel CRUD Project Description </h1>h1>
-<h2></h2>Project Overview</h2>
+<h2>Project Overview</h2>
 <p></p>This is a CRUD (Create, Read, Update, Delete) application built with Laravel. The project focuses on managing products, allowing users to perform basic operations such as adding, editing, viewing, and deleting records.</p>
 <img>![CRUD-2](https://github.com/user-attachments/assets/df61ab1c-e6a1-4bfa-82c6-41080408e485)</img>
 <img>![CRUD-1](https://github.com/user-attachments/assets/7fe96f50-646f-439b-9953-7d8d7275b64c)</img>
