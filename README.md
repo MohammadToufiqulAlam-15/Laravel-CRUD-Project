@@ -1,4 +1,4 @@
-Laravel CRUD Project Description
+<h2>Laravel CRUD Project Description</h2>
 Project Overview
 This is a CRUD (Create, Read, Update, Delete) application built with Laravel. The project focuses on managing products, allowing users to perform basic operations such as adding, editing, viewing, and deleting records.
 
